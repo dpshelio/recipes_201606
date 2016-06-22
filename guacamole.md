@@ -1,5 +1,5 @@
 # Ingredients
- - AVOCADO
+ - Aguacate
  - onions
  - lime
  - salt
